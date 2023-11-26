@@ -2,8 +2,12 @@
 
 Danışman: [@keyvanarasteh](https://github.com/keyvanarasteh)
 <br>
-Öğrenci : [@Emirhan Ceylan](https://github.com/Hunvisk)
-
+<br>
+Öğrenci : [@Emirhan Ceylan](https://github.com/Hunvisk) 
+<br>
+Öğrenci No: 221216028
+<br>
+Öğrenci Mail: 221216028@stu.istinye.edu.tr
 ## Ödev Ekran Görüntüleri
 
 ### İnstagram Uygulaması
