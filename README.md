@@ -1,7 +1,8 @@
 # Mobil Programlama Ödev
 
-Danışman: [@keyvanarasteh](https://github.com/keyvanarasteh)
-Öğrenci : [@Emirhan Ceylan](https://github.com/Hunvisk)
+####Danışman: [@keyvanarasteh](https://github.com/keyvanarasteh)
+
+####Öğrenci : [@Emirhan Ceylan](https://github.com/Hunvisk)
 
 ## Ödev Ekran Görüntüleri
 
